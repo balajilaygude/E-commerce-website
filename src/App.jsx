@@ -1,12 +1,15 @@
 
 import './App.css'
+import Navbar from './Components/Navbar'
 
 function App() {
 
   return (
     <>
+    <div className='w-full'>
+    <Navbar/>
 
-    <h1> Balaji's  E Website ....</h1>
+    </div>
     </>
   )
 }
