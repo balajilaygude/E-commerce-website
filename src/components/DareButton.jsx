@@ -49,15 +49,6 @@ export default function DareButton({
         }
       `}
     >
-      <span className="relative z-10 flex items-center gap-2">
-        {children}
-
-        {!secondary && (
-          <span className="transition-transform duration-300 group-hover:translate-x-1">
-            →
-          </span>
-        )}
-      </span>
     </button>
   );
 }
