@@ -7,7 +7,7 @@ No account. No sign-up. No backend.
 
 Just open the app, click **Give Me a Dare**, and see what you get.
 
-## Live Demo :  https://i-dare-you-iota.vercel.app/
+# Live Demo :  https://i-dare-you-iota.vercel.app/
 
 ## ✨ Features
 
