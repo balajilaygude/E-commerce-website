@@ -16,3 +16,24 @@ Just open the app, click **Give Me a Dare**, and see what you get.
 * 📱 Responsive design for mobile, tablet, and desktop
 * ⚡ Fully client-side — no backend or database required
 * 🔐 No authentication or user accounts
+
+
+## 🎨 Design
+
+The interface is intentionally minimal.
+
+The main experience focuses on:
+
+```text
+OPEN APP
+   ↓
+GIVE ME A DARE
+   ↓
+DARE APPEARS
+   ↓
+NEXT
+   ↓
+ANOTHER DARE
+```
+
+The UI uses subtle animations to make the experience feel playful without overwhelming the user.
