@@ -37,3 +37,14 @@ ANOTHER DARE
 ```
 
 The UI uses subtle animations to make the experience feel playful without overwhelming the user.
+
+## 📱 Responsive Design
+
+The app is designed for:
+
+* Mobile phones
+* Tablets
+* Laptops
+* Desktop screens
+
+The dare card and buttons adapt to smaller screens while keeping the dare itself as the main focus.
