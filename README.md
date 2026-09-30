@@ -48,3 +48,20 @@ The app is designed for:
 * Desktop screens
 
 The dare card and buttons adapt to smaller screens while keeping the dare itself as the main focus.
+
+## 🔮 Possible Future Improvements
+
+Ideas that could be added later without changing the core experience:
+
+* More dare collections
+* Different dare moods
+* Sound effects
+* More advanced animations
+* Share a dare
+* Copy a dare
+* PWA / installable mobile app
+* Dark mode
+* Dare streaks
+* Optional custom dare creation
+
+The core app should remain simple even if these features are added.
