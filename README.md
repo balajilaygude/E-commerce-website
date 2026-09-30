@@ -65,3 +65,9 @@ Ideas that could be added later without changing the core experience:
 * Optional custom dare creation
 
 The core app should remain simple even if these features are added.
+
+## 📄 License
+
+This project is open for personal and educational use.
+
+Add your preferred license here if you plan to distribute the project publicly.
