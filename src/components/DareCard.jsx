@@ -36,7 +36,7 @@ export default function DareCard({ dare }) {
           className="
             relative
             overflow-hidden
-            rounded-[2rem]
+            rounded-4xl
             border
             border-neutral-200
             bg-white
