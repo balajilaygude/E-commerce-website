@@ -18,9 +18,7 @@ export default function Footer({ onClear }) {
         >
           clear history
         </button>
-        <div>
-          cool
-        </div>
+
       </div>
     </footer>
   );
